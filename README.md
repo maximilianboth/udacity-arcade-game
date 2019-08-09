@@ -11,7 +11,7 @@ Users move the player by using the up/right/left/down keys on the keyboard.
 ## Installation
 To run the application:
 
-Download the GitHub zip file or clone the repository onto your PC:
+Download the GitHub zip file or clone the repository onto your PC.
 The game can be opened in a browser via the index file. 
 
 ## Resources
